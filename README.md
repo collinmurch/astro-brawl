@@ -1,4 +1,4 @@
-# astrobrawlgit
+# astrobrawl
 Astro Brawl (Unity Project)
 
 
