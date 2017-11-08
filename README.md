@@ -2,4 +2,4 @@
 Astro Brawl (Unity Project)
 
 
-A game that I worked on for most of my summer before 8th grade.
+A simple arcade-style minigame that I worked on for most of the summer leading up to 8th grade.
